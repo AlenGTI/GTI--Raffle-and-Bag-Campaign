@@ -14,7 +14,7 @@ document.addEventListener("DOMContentLoaded", function () {
   const bagCriteria = { "Retail": {
     Kabul: { "Mond Nano Blue": 2, "Milano Queen Furious Red": 2, "Mond Nano White": 2, "Milano Fan Pack New York": 2, "Milano Fan Pack London": 2, "Milano Nano Las Vegas Black": 1, "Mond QS Red": 1, "Momento Nano Black Jet Wave": 1 },
     Herat: { "Mond Nano Blue": 2, "Milano Queen Furious Red": 2, "Mond Nano White": 2, "Milano Fan Pack New York": 2, "Milano Fan Pack London": 2, "Milano Nano Las Vegas Black": 1, "Mond QS Red": 1, "Momento Nano Black Jet Wave": 1 },
-    Kandahar: { "Mond Nano Blue": 2, "Milano Queen Furious Red": 3, "Mond Nano White": 1, "Milano Fan Pack New York": 2, "Milano Fan Pack London": 2, "Milano Nano Las Vegas Black": 1, "Mond QS Red": 1, "Momento Nano Black Jet Wave": 1 },
+    Kandahar: { "Mond Nano Blue": 2, "Milano Queen Furious Red": 2, "Mond Nano White": 2, "Milano Fan Pack New York": 2, "Milano Fan Pack London": 2, "Milano Nano Las Vegas Black": 1, "Mond QS Red": 1, "Momento Nano Black Jet Wave": 1 },
       Jalalabad: { "Mond Nano Blue": 2, "Milano Queen Furious Red": 2, "Mond Nano White": 2, "Milano Fan Pack New York": 2, "Milano Fan Pack London": 2, "Milano Nano Las Vegas Black": 1, "Mond QS Red": 1, "Momento Nano Black Jet Wave": 1 },
       Mazar: { "Mond Nano Blue": 2, "Milano Queen Furious Red": 2, "Mond Nano White": 2, "Milano Fan Pack New York": 2, "Milano Fan Pack London": 2, "Milano Nano Las Vegas Black": 1, "Mond QS Red": 1, "Momento Nano Black Jet Wave": 1 },
       Helmand: { "Mond Nano Blue": 2, "Milano Queen Furious Red": 2, "Mond Nano White": 2, "Milano Fan Pack New York": 2, "Milano Fan Pack London": 2, "Milano Nano Las Vegas Black": 1, "Mond QS Red": 1, "Momento Nano Black Jet Wave": 1 },
@@ -29,7 +29,7 @@ document.addEventListener("DOMContentLoaded", function () {
   "Semi-Wholesale": {
     Kabul: { "Mond Nano Blue": 2, "Milano Queen Furious Red": 2, "Mond Nano White": 2, "Milano Fan Pack New York": 2, "Milano Fan Pack London": 2, "Milano Nano Las Vegas Black": 1, "Mond QS Red": 1, "Momento Nano Black Jet Wave": 1 },
     Herat: { "Mond Nano Blue": 2, "Milano Queen Furious Red": 2, "Mond Nano White": 2, "Milano Fan Pack New York": 2, "Milano Fan Pack London": 2, "Milano Nano Las Vegas Black": 1, "Mond QS Red": 1, "Momento Nano Black Jet Wave": 1 },
-    Kandahar: { "Mond Nano Blue": 2, "Milano Queen Furious Red": 3, "Mond Nano White": 1, "Milano Fan Pack New York": 2, "Milano Fan Pack London": 2, "Milano Nano Las Vegas Black": 1, "Mond QS Red": 1, "Momento Nano Black Jet Wave": 1 },
+    Kandahar: { "Mond Nano Blue": 2, "Milano Queen Furious Red": 2, "Mond Nano White": 2, "Milano Fan Pack New York": 2, "Milano Fan Pack London": 2, "Milano Nano Las Vegas Black": 1, "Mond QS Red": 1, "Momento Nano Black Jet Wave": 1 },
       Jalalabad: { "Mond Nano Blue": 2, "Milano Queen Furious Red": 2, "Mond Nano White": 2, "Milano Fan Pack New York": 2, "Milano Fan Pack London": 2, "Milano Nano Las Vegas Black": 1, "Mond QS Red": 1, "Momento Nano Black Jet Wave": 1 },
       Mazar: { "Mond Nano Blue": 2, "Milano Queen Furious Red": 2, "Mond Nano White": 2, "Milano Fan Pack New York": 2, "Milano Fan Pack London": 2, "Milano Nano Las Vegas Black": 1, "Mond QS Red": 1, "Momento Nano Black Jet Wave": 1 },
       Helmand: { "Mond Nano Blue": 2, "Milano Queen Furious Red": 2, "Mond Nano White": 2, "Milano Fan Pack New York": 2, "Milano Fan Pack London": 2, "Milano Nano Las Vegas Black": 1, "Mond QS Red": 1, "Momento Nano Black Jet Wave": 1 },
@@ -45,7 +45,7 @@ document.addEventListener("DOMContentLoaded", function () {
   "Wholesale": {
     Kabul: { "Mond Nano Blue": 2, "Milano Queen Furious Red": 2, "Mond Nano White": 2, "Milano Fan Pack New York": 2, "Milano Fan Pack London": 2, "Milano Nano Las Vegas Black": 1, "Mond QS Red": 1, "Momento Nano Black Jet Wave": 1 },
     Herat: { "Mond Nano Blue": 2, "Milano Queen Furious Red": 2, "Mond Nano White": 2, "Milano Fan Pack New York": 2, "Milano Fan Pack London": 2, "Milano Nano Las Vegas Black": 1, "Mond QS Red": 1, "Momento Nano Black Jet Wave": 1 },
-    Kandahar: { "Mond Nano Blue": 2, "Milano Queen Furious Red": 3, "Mond Nano White": 1, "Milano Fan Pack New York": 2, "Milano Fan Pack London": 2, "Milano Nano Las Vegas Black": 1, "Mond QS Red": 1, "Momento Nano Black Jet Wave": 1 },
+    Kandahar: { "Mond Nano Blue": 2, "Milano Queen Furious Red": 2, "Mond Nano White": 2, "Milano Fan Pack New York": 2, "Milano Fan Pack London": 2, "Milano Nano Las Vegas Black": 1, "Mond QS Red": 1, "Momento Nano Black Jet Wave": 1 },
       Jalalabad: { "Mond Nano Blue": 2, "Milano Queen Furious Red": 2, "Mond Nano White": 2, "Milano Fan Pack New York": 2, "Milano Fan Pack London": 2, "Milano Nano Las Vegas Black": 1, "Mond QS Red": 1, "Momento Nano Black Jet Wave": 1 },
       Mazar: { "Mond Nano Blue": 2, "Milano Queen Furious Red": 2, "Mond Nano White": 2, "Milano Fan Pack New York": 2, "Milano Fan Pack London": 2, "Milano Nano Las Vegas Black": 1, "Mond QS Red": 1, "Momento Nano Black Jet Wave": 1 },
       Helmand: { "Mond Nano Blue": 2, "Milano Queen Furious Red": 2, "Mond Nano White": 2, "Milano Fan Pack New York": 2, "Milano Fan Pack London": 2, "Milano Nano Las Vegas Black": 1, "Mond QS Red": 1, "Momento Nano Black Jet Wave": 1 },
@@ -203,3 +203,4 @@ document.addEventListener("DOMContentLoaded", function () {
   });
 
 });
+
